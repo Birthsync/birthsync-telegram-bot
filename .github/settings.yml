@@ -5,7 +5,7 @@ repository:
   name: birthsync-telegram-bot
 
   # A short description of the repository that will show up on GitHub
-  description: 🤖 An instance of Telegram bot for Birthsync application project: includes sequences and requests to the database (must be hosted at the same repository as bot).
+  description: "🤖 An instance of Telegram bot for Birthsync application project: includes sequences and requests to the database (must be hosted at the same repository as bot)."
 
   # A URL with more information about the repository
   homepage:
