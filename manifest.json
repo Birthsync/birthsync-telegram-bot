@@ -1,9 +1,9 @@
 {
-    "id": "patternugit",
-    "name": "Patternugit",
-    "description": "Preconfigured pattern for your repository with universal cases for markdown files of documentations and other actions/scripts",
-    "author": "Falcion",
-    "authorUrl": "https://github.com/Falcion",
-    "license": "MIT",
-    "version": "2.1.6"
+  "id": "birthsync-telegram-bot",
+  "name": "Birthsync.BOT",
+  "description": "🤖 An instance of Telegram bot for Birthsync application project: includes sequences and requests to the database (must be hosted at the same repository as bot).",
+  "author": "Birthsync",
+  "authorUrl": "https://github.com/Birthsync",
+  "license": "MIT",
+  "version": "1.0.0"
 }

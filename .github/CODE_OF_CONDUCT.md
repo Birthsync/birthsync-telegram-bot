@@ -1,4 +1,4 @@
-At PATTERNU, the project's maintainers are committed to creating an inclusive and
+At BIRTHSYNC, the project's maintainers are committed to creating an inclusive and
 respectful environment for all members, participants, and contributors:
 it is believed, that a strong and welcoming community is essential to
 fostering collaboration, innovation, growth and common landscape of open-source.
@@ -12,7 +12,7 @@ and the conduct we expect from one another.
 
 Project's maintainers invite you to familiarize yourself with this code-doc
 and embrace its principles as you engage with our community; by doing so, you
-contribute to making PATTERNU's community a place where diverse perspectives
+contribute to making BIRTHSYNC's community a place where diverse perspectives
 are valued, ideas are freely exchanged, and where we can collectively thrive.
 
 The code-doc of this, aims to foster an open, innovative, and
@@ -23,10 +23,10 @@ project, to clarify expected behavior in the community.
 
 This document was adopted/created/inspired by:
 
-- https://www.contributor-covenant.org/
+- <https://www.contributor-covenant.org/>
 - [.JS Conference - Code of conduct](https://javascript-conference.com/code-of-conduct/)
 - [NET Foundation - Code of conduct](https://dotnetfoundation.org/about/policies/code-of-conduct)
-- https://docs.github.com/en/site-policy/github-terms/github-community-code-of-conduct/
+- <https://docs.github.com/en/site-policy/github-terms/github-community-code-of-conduct/>
 
 ## Commitment
 
@@ -106,7 +106,7 @@ in response to any behavior that they deem inappropriate, threatening,
 offensive, or harmful.
 
 - For enforcement guidelines seek the “contributor covenant's” version of this document:\
-  https://www.contributor-covenant.org/
+  <https://www.contributor-covenant.org/>
 
 Community leaders have the right and responsibility to remove, edit, or
 reject comments, commits, code, wiki edits, issues, and other
@@ -139,11 +139,11 @@ appointed representative at an online or offline event.
 ## Attribution
 
 Community impact guidelines were inspired by:\
-https://github.com/mozilla/diversity/
+<https://github.com/mozilla/diversity/>
 
 For answers to common questions about this code of conduct, please
 refer to the FAQ and the translations, which are available on the
 “contributor covenant's” page.
 
-- https://www.contributor-covenant.org/faq
-- https://www.contributor-covenant.org/translations
+- <https://www.contributor-covenant.org/faq>
+- <https://www.contributor-covenant.org/translations>
