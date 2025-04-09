@@ -1,4 +1,3 @@
-<!--markdownlint-disable-->
 <!--
  BLOCK OF SHIELDS AND LOGO:
  -->
@@ -33,7 +32,6 @@
     <a href="https://github.com/Birthsync/birthsync-telegram-bot/issues/">Report a bug</a>
     </p>
 </div>
- <!-- markdownlint-enable -->
 <!-- ABOUT THE PROJECT:
  -->
 
