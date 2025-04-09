@@ -69,7 +69,7 @@ tinycss2==1.4.0
 tomlkit==0.13.2
 tornado==6.4.2
 traitlets==5.14.3
-types-PyYAML==6.0.12.20240917
+types-PyYAML==6.0.12.20250402
 typing_extensions==4.12.2
 urllib3==2.2.3
 wcwidth==0.2.13
