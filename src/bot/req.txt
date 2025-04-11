@@ -41,7 +41,7 @@ langsmith==0.3.24
 loguru==0.7.3
 magic-filter==1.0.12
 makefun==1.15.6
-Mako==1.3.9
+Mako==1.3.10
 markdown-it-py==3.0.0
 MarkupSafe==3.0.2
 mdurl==0.1.2
