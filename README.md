@@ -18,12 +18,12 @@
 <br/>
 <!-- -->
 <div align="center">
-    <img src="./.github/images/icon-generic.png" alt="icon" style="width:66%;height:66%;"/>
+    <img src="./.github/images/icon-generic.png" alt="icon" style="width:33%;height:33%;"/>
     <!-- TEXTS -->
     <h3 style="margin-top:auto;">
-        XXX</h3>
+        Birthsync</h3>
      <p>
-    XXX.
+    Synchronize birthdates - synchronize ideas.
     <br/>
     <a href="https://github.com/Birthsync/birthsync-telegram-bot/compare/">Contribute to us</a>
     /
@@ -34,10 +34,6 @@
 </div>
 <!-- ABOUT THE PROJECT:
  -->
-
-## About the project
-
-TO-DO
 
 <!-- BUILT WITH:
  -->
@@ -112,29 +108,6 @@ Guidelines for installation of source code of this project:
    contribute to this project[^2].
 
 <p align="right"><a href="#readme-top" title="Back to the top of README">[^]</a></p>
-
-<!-- USAGE:
- -->
-
-## Usage
-
-TO-DO
-
-<p align="right"><a href="#readme-top" title="Back to the top of README">[^]</a></p>
-
-<!-- ROADMAP:
- -->
-
-## Roadmap
-
-<!--
-  This roadmap is general and initial,
-  meaning it is created only at the start
-  of project development and discontinued
-  after completion of it.
- -->
-
-TO-DO
 
 <p align="right"><a href="#readme-top" title="Back to the top of README">[^]</a></p>
 
