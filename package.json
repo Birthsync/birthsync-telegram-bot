@@ -203,7 +203,7 @@
     "check-for-leaks": "^1.2.1",
     "colors": "^1.4.0",
     "dotenv": "^16.4.5",
-    "editorconfig": "^2.0.0",
+    "editorconfig": "^3.0.1",
     "esbuild": "^0.25.0",
     "esbuild-plugin-glsl": "^1.2.2",
     "esbuild-plugin-node-externals": "^1.0.1",
